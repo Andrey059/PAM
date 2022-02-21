@@ -155,12 +155,12 @@ cp /vagrant/pam_script /etc/
 ```
 groupadd admin
 useradd -G admin user1
-echo "bun:Otus2019" | chpasswd
+echo "bun:Otus2022" | chpasswd
 ```
 Создаём user2, задаём пароль.
 ```
 useradd user2
-echo "cookie:Otus2019" | chpasswd
+echo "cookie:Otus2022" | chpasswd
 ```
 Чтобы быть уверенными, что на стенде разрешен вход через ssh по паролю выполним:
 ```
