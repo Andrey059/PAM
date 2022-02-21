@@ -131,7 +131,7 @@ echo "Make Linux great again" > /dev/tcp/127.0.0.7/80
 
 
 
-#ДЗ
+# ДЗ
 
 
 Описание работы.
